@@ -1,1 +1,1 @@
-Adds more ores and tools
+Adds tools and blocks for several new ores.
